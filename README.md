@@ -9,5 +9,3 @@ Detecting and tracking small moving targets with extremely low SCR in complex sc
 
 The dataset is available at the following URL: [https://drive.google.com/drive/folders/1r34b5U5EtMQ9oQUdG-YvwwnLap_mk2oR?usp=sharing]
 
-
-"# SmallTargetDataset" 
